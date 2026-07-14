@@ -11,7 +11,7 @@ Check out the PowerBI dashboard here : [dashboard](dashboard)
 
 ## 🖼️ Dashboard Preview
 
-![HR Analytics Dashboard](images\Dashboard.png)
+![HR Analytics Dashboard](images/Dashboard.png)
 
 # 🎯 Business Questions
 
